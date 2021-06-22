@@ -1,4 +1,4 @@
-# Projects portfolio: some code that I can share which resulted from PhD and postdoc.
+# Projects portfolio (being updated): some code that I can share used for my PhD and postdoc.
 # Please contact me for more information.
 # GCTools: MATLAB functions for Granger causality
 # NatComm Script HRV Xgboost.ipynb: script used for the study https://www.nature.com/articles/s41467-020-19736-3
