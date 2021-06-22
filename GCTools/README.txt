@@ -1,3 +1,6 @@
+# This Toolbox was developed for personal use. I make use of several other toolboxes which are now added to avoid possible incompatibility with newer versions.
+
+
 adjMatrix=causalMatrix(data(nVars,nObs),Measure,Model,type,Fs,fArray,MINP,MAXP,scrit,pval,nullPopMethod,numSurrogates,nullStruct);
 or time-varying
 adjMatrix=TV_CausalMatrix(data(nVars,nObs),Measure,Model,type,Fs,fArray,MINP,MAXP,scrit,pval,nullPopMethod,numSurrogates,nullStruct);
@@ -6,7 +9,7 @@ Before using any function please add the folder functions (and its subfolders) t
 
 For causalMatrix()
 
-data is in nº variables vs nº observations
+data is in nÂº variables vs nÂº observations
 
 Measure:
 	'GCGeweke'
@@ -68,7 +71,7 @@ GCCond=causalMatrix(rand(3,100),'GCI','LS','cond',250,[5 30],1,30,'bic',0.01,'ph
 
 For TV_CausalMatrix()
 
-data is in nº variables vs nº observations
+data is in nÂº variables vs nÂº observations
 
 Measure:
 	'GCGeweke'
