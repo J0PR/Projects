@@ -1,2 +1,2 @@
 # Projects portfolio
-# Please contact me if you require more information.
+# Please contact pmr.joao@gmail.com for more information
